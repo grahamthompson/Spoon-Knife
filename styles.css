@@ -15,6 +15,12 @@
   margin: 50px auto;
 }
 
+#trialblock {
+  display: block;
+  width:750px;
+  margin: 20px auto;
+}
+
 p {
   display: block;
   width: 400px;
